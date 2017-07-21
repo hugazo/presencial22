@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Esta es la segunda App de Rails para Desafio Latam, curso Full Stack.
 
-Things you may want to cover:
+# Para ingresar a esta pagina, se puede acceder a:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://stormy-sea-83300.herokuapp.com
