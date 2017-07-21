@@ -13,6 +13,15 @@
   </head>
 
   <body>
+    <div class="navbar navbar">
+      <div class="container-fluid">
+        <a href="#" class="navbar-brand">Proyecto 2 Desafio Latam Ruby On Rails</a>
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href=<%= pages_landing_path %>>Index</a></li>
+          <li><a href=<%= students_path %>>Landing</a></li>
+        </ul>
+      </div>
+    </div>
     <%= yield %>
   </body>
 </html>
